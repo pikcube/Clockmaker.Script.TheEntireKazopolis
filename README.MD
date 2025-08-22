@@ -1,1 +1,153 @@
 <!--Clockmaker Sync Enabled: Do Not Remove This Comment-->
+# The Entire Kazopolis
+## Characters
+* Acrobat: Each night*, choose a player: if they are or become drunk or poisoned tonight, you die.
+* Alchemist: You have a Minion ability. When using this, the Storyteller may prompt you to choose differently.
+* Alsaahir: Each day, if you publicly guess which players are Minion(s) and which are Demon(s), good wins.
+* Amnesiac: You do not know what your ability is. Each day, privately guess what it is: you learn how accurate you are.
+* Artist: Once per game, during the day, privately ask the Storyteller any yes/no question.
+* Atheist: The Storyteller can break the game rules & if executed, good wins, even if you are dead. [No evil characters]
+* Balloonist: Each night, you learn a player of a different character type than last night. [+0 or +1 Outsider]
+* Banshee: If the Demon kills you, all players learn this. From now on, you may nominate twice per day and vote twice per nomination.
+* Bounty Hunter: You start knowing 1 evil player. If the player you know dies, you learn another evil player tonight. [1 Townsfolk is evil]
+* Cannibal: You have the ability of the recently killed executee. If they are evil, you are poisoned until a good player dies by execution.
+* Chambermaid: Each night, choose 2 alive players (not yourself): you learn how many woke tonight due to their ability.
+* Chef: You start knowing how many pairs of evil players there are.
+* Choirboy: If the Demon kills the King, you learn which player is the Demon. [+the King]
+* Clockmaker: You start knowing how many steps from the Demon to its nearest Minion.
+* Courtier: Once per game, at night, choose a character: they are drunk for 3 nights & 3 days.
+* Cult Leader: Each night, you become the alignment of an alive neighbor. If all good players choose to join your cult, your team wins.
+* Dreamer: Each night, choose a player (not yourself or Travellers): you learn 1 good & 1 evil character, 1 of which is correct.
+* Empath: Each night, you learn how many of your 2 alive neighbors are evil.
+* Exorcist: Each night*, choose a player (different to last night): the Demon, if chosen, learns who you are then doesn't wake tonight.
+* Farmer: When you die at night, an alive good player becomes a Farmer.
+* Fisherman: Once per game, during the day, visit the Storyteller for some advice to help your team win.
+* Flowergirl: Each night*, you learn if a Demon voted today.
+* Fool: The 1st time you die, you don't.
+* Fortune Teller: Each night, choose 2 players: you learn if either is a Demon. There is a good player that registers as a Demon to you.
+* Gambler: Each night*, choose a player & guess their character: if you guess wrong, you die.
+* General: Each night, you learn which alignment the Storyteller believes is winning: good, evil, or neither.
+* Gossip: Each day, you may make a public statement. Tonight, if it was true, a player dies.
+* Grandmother: You start knowing a good player & their character. If the Demon kills them, you die too.
+* High Priestess: Each night, learn which player the Storyteller believes you should talk to most.
+* Huntsman: Once per game, at night, choose a living player: the Damsel, if chosen, becomes a not-in-play Townsfolk. [+the Damsel]
+* Innkeeper: Each night*, choose 2 players: they can't die tonight, but 1 is drunk until dusk.
+* Investigator: You start knowing that 1 of 2 players is a particular Minion.
+* Juggler: On your 1st day, publicly guess up to 5 players' characters. That night, you learn how many you got correct.
+* King: Each night, if the dead equal or outnumber the living, you learn 1 alive character. The Demon knows you are the King.
+* Knight: You start knowing 2 players that are not the Demon.
+* Librarian: You start knowing that 1 of 2 players is a particular Outsider. (Or that zero are in play.)
+* Lycanthrope: Each night*, choose an alive player. If good, they die & the Demon doesn't kill tonight. One good player registers as evil.
+* Magician: The Demon thinks you are a Minion. Minions think you are a Demon.
+* Mathematician: Each night, you learn how many players' abilities worked abnormally (since dawn) due to another character's ability.
+* Mayor: If only 3 players live & no execution occurs, your team wins. If you die at night, another player might die instead.
+* Minstrel: When a Minion dies by execution, all other players (except Travellers) are drunk until dusk tomorrow.
+* Monk: Each night*, choose a player (not yourself): they are safe from the Demon tonight.
+* Nightwatchman: Once per game, at night, choose a player: they learn you are the Nightwatchman.
+* Noble: You start knowing 3 players, 1 and only 1 of which is evil.
+* Oracle: Each night*, you learn how many dead players are evil.
+* Pacifist: Executed good players might not die.
+* Philosopher: Once per game, at night, choose a good character: gain that ability. If this character is in play, they are drunk.
+* Pixie: You start knowing 1 in-play Townsfolk. If you were mad that you were this character, you gain their ability when they die.
+* Poppy Grower: Minions & Demons do not know each other. If you die, they learn who each other are that night.
+* Preacher: Each night, choose a player: a Minion, if chosen, learns this. All chosen Minions have no ability.
+* Princess: On your 1st day, if you nominated & executed a player, the Demon doesn't kill tonight.
+* Professor: Once per game, at night*, choose a dead player: if they are a Townsfolk, they are resurrected.
+* Ravenkeeper: If you die at night, you are woken to choose a player: you learn their character.
+* Sage: If the Demon kills you, you learn that it is 1 of 2 players.
+* Sailor: Each night, choose an alive player: either you or they are drunk until dusk. You can't die.
+* Savant: Each day, you may visit the Storyteller to learn 2 things in private: 1 is true & 1 is false.
+* Seamstress: Once per game, at night, choose 2 players (not yourself): you learn if they are the same alignment.
+* Shugenja: You start knowing if your closest evil player is clockwise or anti-clockwise. If equidistant, this info is arbitrary.
+* Slayer: Once per game, during the day, publicly choose a player: if they are the Demon, they die.
+* Snake Charmer: Each night, choose an alive player: a chosen Demon swaps characters & alignments with you & is then poisoned.
+* Soldier: You are safe from the Demon.
+* Steward: You start knowing 1 good player.
+* Tea Lady: If both your alive neighbors are good, they can't die.
+* Town Crier: Each night*, you learn if a Minion nominated today.
+* Undertaker: Each night*, you learn which character died by execution today.
+* Village Idiot: Each night, choose a player: you learn their alignment. [+0 to +2 Village Idiots. 1 of the extras is drunk]
+* Virgin: The 1st time you are nominated, if the nominator is a Townsfolk, they are executed immediately.
+* Washerwoman: You start knowing that 1 of 2 players is a particular Townsfolk.
+* Barber: If you died today or tonight, the Demon may choose 2 players (not another Demon) to swap characters.
+* Butler: Each night, choose a player (not yourself): tomorrow, you may only vote if they are voting too.
+* Damsel: All Minions know a Damsel is in play. If a Minion publicly guesses you (once), your team loses.
+* Drunk: You do not know you are the Drunk. You think you are a Townsfolk character, but you are not.
+* Golem: You may only nominate once per game. When you do, if the nominee is not the Demon, they die.
+* Goon: Each night, the 1st player to choose you with their ability is drunk until dusk. You become their alignment.
+* Hatter: If you died today or tonight, the Minion & Demon players may choose new Minion & Demon characters to be.
+* Heretic: Whoever wins, loses & whoever loses, wins, even if you are dead.
+* Hermit: You have all Outsider abilities. [-0 or -1 Outsider]
+* Klutz: When you learn that you died, publicly choose 1 alive player: if they are evil, your team loses.
+* Lunatic: You think you are a Demon, but you are not. The Demon knows who you are & who you choose at night.
+* Moonchild: When you learn that you died, publicly choose 1 alive player. Tonight, if it was a good player, they die.
+* Mutant: If you are "mad" about being an Outsider, you might be executed.
+* Ogre: On your 1st night, choose a player (not yourself): you become their alignment (you don't know which) even if drunk or poisoned.
+* Plague Doctor: When you die, the Storyteller gains a Minion ability.
+* Politician: If you were the player most responsible for your team losing, you change alignment & win, even if dead.
+* Puzzlemaster: 1 player is drunk, even if you die. If you guess (once) who it is, learn the Demon player, but guess wrong & get false info.
+* Recluse: You might register as evil & as a Minion or Demon, even if dead.
+* Saint: If you die by execution, your team loses.
+* Snitch: Each Minion gets 3 bluffs.
+* Sweetheart: When you die, 1 player is drunk from now on.
+* Tinker: You might die at any time.
+* Zealot: If there are 5 or more players alive, you must vote for every nomination.
+* Assassin: Once per game, at night*, choose a player: they die, even if for some reason they could not.
+* Boffin: The Demon (even if drunk or poisoned) has a not-in-play good character's ability. You both know which.
+* Boomdandy: If you are executed, all but 3 players die. After a 10 to 1 countdown, the player with the most players pointing at them, dies.
+* Cerenovus: Each night, choose a player & a good character: they are "mad" they are this character tomorrow, or might be executed.
+* Devil's Advocate: Each night, choose a living player (different to last night): if executed tomorrow, they don't die.
+* Evil Twin: You & an opposing player know each other. If the good player is executed, evil wins. Good can't win if you both live.
+* Fearmonger: Each night, choose a player. If you nominate & execute them, their team loses. All players know if you choose a new player.
+* Goblin: If you publicly claim to be the Goblin when nominated & are executed that day, your team wins.
+* Godfather: You start knowing which Outsiders are in play. If 1 died today, choose a player tonight: they die. [-1 or +1 Outsider]
+* Harpy: Each night, choose 2 players: tomorrow, the 1st player is mad that the 2nd is evil, or one or both might die.
+* Marionette: You think you are a good character, but you are not. The Demon knows who you are. [You neighbor the Demon]
+* Mastermind: If the Demon dies by execution (ending the game), play for 1 more day. If a player is then executed, their team loses.
+* Mezepheles: You start knowing a secret word. The 1st good player to say this word becomes evil that night.
+* Organ Grinder: All players keep their eyes closed when voting and the vote tally is secret. Each night, choose if you are drunk or not.
+* Pit-Hag: Each night*, choose a player & a character they become (if not-in-play). If a Demon is made, deaths tonight are arbitrary.
+* Poisoner: Each night, choose a player: they are poisoned tonight and tomorrow day.
+* Psychopath: Each day, before nominations, you may publicly choose a player: they die. If executed, you only die if you lose roshambo.
+* Scarlet Woman: If there are 5 or more players alive & the Demon dies, you become the Demon. (Travellers don't count.)
+* Spy: Each night, you see the Grimoire. You might register as good & as a Townsfolk or Outsider, even if dead.
+* Vizier: All players know you are the Vizier. You can not die during the day. If good voted, you may choose to execute immediately.
+* Widow: On your 1st night, look at the Grimoire and choose a player: they are poisoned. 1 good player knows a Widow is in play.
+* Witch: Each night, choose a player: if they nominate tomorrow, they die. If just 3 players live, you lose this ability.
+* Wizard: Once per game, choose to make a wish. If granted, it might have a price & leave a clue as to its nature.
+* Wraith: You may choose to open your eyes at night. You wake when other evil players do.
+* Xaan: On night X, all Townsfolk are poisoned until dusk. [X Outsiders]
+* Al-Hadikhia: Each night*, you may choose 3 players (all players learn who): each silently chooses to live or die, but if all live, all die.
+* Fang Gu: Each night*, choose a player: they die. The 1st Outsider this kills becomes an evil Fang Gu & you die instead. [+1 Outsider]
+* Imp: Each night*, choose a player: they die. If you kill yourself this way, a Minion becomes the Imp.
+* Leviathan: If more than 1 good player is executed, evil wins. All players know you are in play. After day 5, evil wins.
+* Lil' Monsta: Each night, Minions choose who babysits Lil' Monsta & "is the Demon". Each night*, a player might die. [+1 Minion]
+* Lleech: Each night*, choose a player: they die. You start by choosing a player: they are poisoned. You die if & only if they are dead.
+* No Dashii: Each night*, choose a player: they die. Your 2 Townsfolk neighbors are poisoned.
+* Ojo: Each night*, choose a character: they die. If they are not in play, the Storyteller chooses who dies.
+* Po: Each night*, you may choose a player: they die. If your last choice was no-one, choose 3 players tonight.
+* Pukka: Each night, choose a player: they are poisoned. The previously poisoned player dies then becomes healthy.
+* Riot: On day 3, Minions become Riot & nominees die but nominate an alive player immediately. This must happen.
+* Shabaloth: Each night*, choose 2 players: they die. A dead player you chose last night might be regurgitated.
+* Vigormortis: Each night*, choose a player: they die. Minions you kill keep their ability & poison 1 Townsfolk neighbor. [-1 Outsider]
+* Vortox: Each night*, choose a player: they die. Townsfolk abilities yield false info. Each day, if no-one is executed, evil wins.
+* Yaggababble: You start knowing a secret phrase. For each time you said it publicly today, a player might die.
+* Zombuul: Each night*, if no-one died today, choose a player: they die. The 1st time you die, you live but register as dead.
+* Kazopolis: On night 1, each player may choose to become any character of the same type. Duplicates might be drunk. [? Outsiders]
+* Apprentice: On your 1st night, you gain a Townsfolk ability (if good), or a Minion ability (if evil).
+* Barista: Each night, until dusk, 1) a player becomes sober, healthy and gets true info, or 2) their ability works twice. They learn which.
+* Beggar: You must use a vote token to vote. If a dead player gives you theirs, you learn their alignment. You are sober & healthy.
+* Bishop: Only the Storyteller can nominate. At least 1 opposing player must be nominated each day.
+* Bone Collector: Once per game, at night*, choose a dead player: they regain their ability until dusk.
+* Bureaucrat: Each night, choose a player (not yourself): their vote counts as 3 votes tomorrow.
+* Butcher: Each day, after the 1st execution, you may nominate again.
+* Deviant: If you were funny today, you cannot die by exile.
+* Gangster: Once per day, you may choose to kill an alive neighbor, if your other alive neighbor agrees.
+* Gnome: All players start knowing a player of your alignment. You may choose to kill anyone who nominates them.
+* Gunslinger: Each day, after the 1st vote has been tallied, you may choose a player that voted: they die.
+* Harlot: Each night*, choose a living player: if they agree, you learn their character, but you both might die.
+* Judge: Once per game, if another player nominated, you may choose to force the current execution to pass or fail.
+* Matron: Each day, you may choose up to 3 sets of 2 players to swap seats. Players may not leave their seats to talk in private.
+* Scapegoat: If a player of your alignment is executed, you might be executed instead.
+* Thief: Each night, choose a player (not yourself): their vote counts negatively tomorrow.
+* Voudon: Only you and the dead can vote. They don't need a vote token to do so. A 50% majority is not required.
